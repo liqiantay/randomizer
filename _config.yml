@@ -1,4 +1,6 @@
 remote_theme: riggraz/no-style-please
+name: ""
+title: null
 plugins:
 - jekyll-remote-theme 
 github:
